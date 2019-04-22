@@ -1,0 +1,34 @@
+
+<?xml version ="1.0" encoding="utf-8"?>
+<rss version = "2.0">
+	<channel>
+		<title>Parte práctica, ejericio de la PAC</title>
+		<link>https://alejandroriglesias.github.io/PACLenguajeMarcas/</link>
+		<description>Noticias sobre ciencia y tecnología</description>
+		<item>
+			<title>Inteligencia artificial</title>
+			<link>https://elpais.com/elpais/2019/04/08/ciencia/1554710887_763760.html</link>
+			<description>Un artículo muy interesante sobe inteligencia artificial aplicada a la sostenibilidad</description>
+		</item>
+		<item>
+			<title>Avances en cáncer</title>
+			<link>https://elpais.com/elpais/2019/04/09/ciencia/1554821493_874181.html</link>
+			<description>Descubre más sobre el avance en cáncer de un equipo español de investigación</description>
+		</item>	
+		<item>
+			<title>Sobrepasados por el Big Data</title>
+			<link>https://elpais.com/cultura/2019/01/04/actualidad/1546601759_505183.html</link>
+			<description>El fenómeno de Big Data explicado</description>
+		</item>	
+		<item>
+			<title>Cómo localizar cualquier foto en tu móvil</title>
+			<link>https://elpais.com/tecnologia/2019/04/12/actualidad/1555061672_740035.html</link>
+			<description> Sistemas basados en inteligencia artificial para encontrar fotos en tu dispositivo</description>
+		</item>	
+		<item>
+			<title>El hospital europeo de la tecnología</title>
+			<link>https://elpais.com/tecnologia/2019/04/12/actualidad/1555061672_740035.html</link>
+			<description>En Sevilla podemos encontrar una de los mayores redes de reparación de aparatos tecnológicos</description>
+		</item>				
+	</channel>	
+</rss>
